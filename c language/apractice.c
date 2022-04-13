@@ -1,6 +1,6 @@
 #include "stdio.h" 
 int main(void){
-    int a,b;
+    int a,b;//njnj
     printf("enter the length of the rectangle\n");
     scanf("%d",&a);
     printf("enter the width of the rectangle\n");
